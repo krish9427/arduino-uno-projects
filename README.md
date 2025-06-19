@@ -55,7 +55,7 @@ This Arduino-based project uses two IR sensors to detect direction of movement a
 
 ## 🧪 Demo (optional)
 
-🎞️ Demo Video: [Click to view](demo_video.mp4)
+🎥 [Watch the Demo Video on YouTube](https://youtu.be/IhTZK_EVxWw)
 
 
 ---
